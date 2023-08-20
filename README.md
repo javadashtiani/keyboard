@@ -1,5 +1,5 @@
 # keyboard
-![digitalclock](https://github.com/javadashtiani/DigitalClock/assets/134012615/6ce7b051-c8db-4445-847a-905c6508609d)
+![keyboard](https://github.com/javadashtiani/keyboard/assets/134012615/1f3adc0f-5aa9-40a3-a3e9-5958a053821a)
 - 🔗 https://javadashtiani.github.io/keyboard/
 - 💻 Developed by Javad Ashtiani
 - 📆 Created - 2023
